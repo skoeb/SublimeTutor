@@ -2,7 +2,7 @@ Sorting lines
 ==============
 
 You have shown lovely progress till now. You have sorted a block of text
-two times in unit 4 and then 8. Second time, it took less time time than
+two times in unit 4 and then 8. Second time, it took less time than
 the first one. What if I tell you that you can sort lines in Sublime Text
 with just one keystroke?
 
